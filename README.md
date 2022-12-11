@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi 👋, I'm Oscar
 
 <!--
 **oscarschraenkler/oscarschraenkler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Aspiring Data Scientist with a backround in business
+
+- 🔭 I’m interested in Python, Machine Learning and Deep Learning.
+- 🌱 I’m currently working on **DengAI**.
+- 🤔 I’m looking for an exciting role as a Data Scientist, Data Engineer or Data Analyst.
+- 📫 How to reach me: o.schraenkler@gmail.com
