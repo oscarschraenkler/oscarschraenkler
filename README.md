@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Aspiring Data Scientist with a backround in business
+## Aspiring Data Scientist with a background in Business
 
 Originally from Norwegian and German parents (and UK citizen by birth), I am looking to bring my skills in Python, machine learning and data analysis to a new position in the field of data science and engineering.
 
