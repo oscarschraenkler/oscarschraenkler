@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Aspiring Data Scientist with a backround in business
 
+Originally from Norwegian and German parents (and UK citizen by birth), I am looking to bring my skills in Python, machine learning and data analysis to a new position in the field of data science and engineering.
+
 - 🔭 I’m interested in Python, Machine Learning and Deep Learning.
 - 🌱 I’m currently working on **DengAI**.
 - 🤔 I’m looking for an exciting role as a Data Scientist, Data Engineer or Data Analyst.
