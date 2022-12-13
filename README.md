@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 Originally from Norwegian and German parents (and UK citizen by birth), I am looking to bring my skills in Python, machine learning and data analysis to a new position in the field of data science and engineering.
 
 - 🔭 I’m interested in Python, Machine Learning and Deep Learning.
-- 🌱 I’m currently working on **DengAI**.
+- 🌱 I’m currently working on [**DengAI**](https://oscarschraenkler-dengue-fever-predictions-app-ccawvn.streamlit.app/).
 - 🤔 I’m looking for an exciting role as a Data Scientist, Data Engineer or Data Analyst.
 - 📫 How to reach me: o.schraenkler@gmail.com
