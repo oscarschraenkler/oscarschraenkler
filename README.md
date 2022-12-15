@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Aspiring Data Scientist with a background in Business
+## Data Scientist with a background in Business
 
-I am German/Norwegian with UK citizenship and am looking to bring my skills in Python, machine learning and data analysis to a new position in the field of data science and engineering.
+I am German and Norwegian, but was born in the UK and raised there. I am looking to bring my skills in Python, machine learning and data analysis to a new role in data science.
 
 - 🔭 I’m interested in Python, Machine Learning and Deep Learning.
 - 🌱 I’m currently working on [**DengAI**](https://oscarschraenkler-dengue-fever-predictions-app-ccawvn.streamlit.app/).
