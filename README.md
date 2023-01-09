@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am passionate about data and business
+## Data Scientist with a business background
 
 I am German and Norwegian, but was born in the UK and raised there. I am looking to bring my skills in Python, machine learning and data analysis to a new role in data science.
 
