@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Data Scientist with a business background
 
-I am German and Norwegian, but was born in the UK and raised there. I am looking to bring my skills in Python, machine learning and data analysis to a new role in data science.
+I am German and Norwegian, but was born in the UK and raised there.
 
 - 🔭 I’m interested in Python, Machine Learning and Deep Learning.
 - 🌱 I’m currently working on [**DengAI**](https://oscarschraenkler-dengue-fever-predictions-app-ccawvn.streamlit.app/).
