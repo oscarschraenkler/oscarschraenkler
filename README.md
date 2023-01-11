@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Data Scientist with a business background
 
-I am German and Norwegian, but was born in the UK and raised there.
+I am German and Norwegian, but was born in the UK and raised there. I hold a Master's degree in Business from the Stern Business School at NYU and a Bachelor's degree in Business and German from Warwick Business School.
 
 - 🔭 I’m interested in Python, Machine Learning and Deep Learning.
 - 🌱 I’m currently working on [**DengAI**](https://oscarschraenkler-dengue-fever-predictions-app-ccawvn.streamlit.app/).
