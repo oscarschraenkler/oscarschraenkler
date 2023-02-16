@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Data Scientist with a business background
+## Data Analyst with a business background
 
 I am German and Norwegian, but was born in the UK and raised there. I hold a Master's degree in Business from the Stern Business School at NYU and a Bachelor's degree in Business and German from Warwick Business School.
 
