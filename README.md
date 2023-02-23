@@ -21,7 +21,6 @@ I am German and Norwegian, but was born in the UK and raised there. I hold a Mas
 
 - 🔭 I’m interested in Python, Machine Learning and Deep Learning.
 - 🌱 I’m currently working on [**DengAI**](https://oscarschraenkler-dengue-fever-predictions-app-ccawvn.streamlit.app/).
-- 🤔 I’m looking for an exciting role as a Data Scientist, Data Engineer or Data Analyst.
 - 📝 I regularly write articles on [Medium](https://medium.com/@o.schraenkler).
 - 📄 Read about my experiences [here](https://drive.google.com/file/d/1RwOD4_7VChI_VlxmyLnAqzNBioeyStyS/view).
 - ⚡ Fun fact: I am a DJ and produce music as a hobby under the name [Azuro](https://open.spotify.com/artist/29rsvX8tM1cbyZhn554CFk?si=WcMPCMf2Tum3ktv0YV8fTA).
